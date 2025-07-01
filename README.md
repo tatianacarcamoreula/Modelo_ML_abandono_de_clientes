@@ -27,4 +27,4 @@ En el notebook "Predicción_Abandono_de_Clientes.ipynb", se encuentra el proceso
 *	Sklearn (Scikit-Learn) para codificación y normalización de datos, entrenamiento de diferentes modelos de machine learning y validación de modelos.
 
 ## Link del Dataset usado para el modelo de machine learning
-https://www.kaggle.com/code/idrisondata/bank-customer-churn-prediction
+https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers
